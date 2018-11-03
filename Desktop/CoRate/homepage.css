@@ -1,0 +1,17 @@
+body{
+	background: url("https://www.agencymabu.com/wp-content/uploads/2017/05/MABU_blogging_googlereviews-1200x571.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#content{
+	text-align: center;
+	padding-top: 35%;
+}
+
+h3{
+	color: white;
+	font-weight: 600;
+	font-size: : 1em;
+
+}
